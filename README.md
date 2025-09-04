@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Artur Papikian
 
-🎓 I'm currently studying **Artificial Intelligence** at Hochschule Flensburg.  
+🎓 I'm currently studying **Applied Computer Science** at Hochschule Flensburg.  
 💻 I'm also a **Junior Developer** with 4 years of hands-on experience building full-stack applications.
 
 ---
